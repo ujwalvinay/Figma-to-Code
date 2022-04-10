@@ -62,3 +62,50 @@ header h2{
     opacity: 0.8;
 }
 
+/*--------------------------Food items---------------------------------------*/
+
+.food-items
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15%;
+    padding-left: 2rem;
+    padding-right: 2REM;
+}
+.item{
+    border-radius: 5%;
+    padding: 0 2%;
+    width: 200PX;
+    min-height: 250PX;
+}
+.BG
+{
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+
+    justify-content: center;
+}
+h2
+{
+    
+}
+.image
+{
+    width: 90%;
+    height: auto;
+
+    position: relative;
+    bottom: 60px;
+}
+h4
+{
+    font-size: 19px;
+    font-weight: 800;
+    
+    margin: auto 0;
+}
+hr
+{
+    margin-top: 1rem;
+}
+
